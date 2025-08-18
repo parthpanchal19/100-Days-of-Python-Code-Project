@@ -7,26 +7,26 @@ This repo shows not just what I’ve learned, but what I’ve **built**. 💻✨
 ## 📌 Projects
 
 ### Beginner → Intermediate
-- **Day 16 - Coffee Machine (OOP)**  
+- **Coffee Machine (OOP)**  
   Built a console-based coffee machine simulator using OOP concepts.  
 
-- **Day 29 - Password Manager (Tkinter + JSON)**  
+- **Password Manager (Tkinter + JSON)**  
   GUI-based password manager with data storage in JSON.  
 
-- **Day 34 - Quiz App (Tkinter + API)**  
+- **Quiz App (Tkinter + API)**  
   GUI quiz game that fetches trivia questions from an API.  
 
 ### Intermediate+  
-- **Day 36 - Stock News Alert**  
+- **Stock News Alert**  
   Sends SMS/email alerts when stock price changes significantly, using APIs & Twilio.  
 
-- **Day 37 - Habit Tracker**  
+- **Habit Tracker**  
   Used Pixela API to log daily habits (built with POST, PUT, DELETE requests).  
 
-- **Day 38 - Workout Tracker**  
+- **Workout Tracker**  
   Integrated Nutritionix & Google Sheets API to auto-log workouts.  
 
-- **Day 39 - Flight Deal Finder**  
+- **Flight Deal Finder**  
   Searches for cheap flights and notifies users via email/SMS.  
 
 ---
