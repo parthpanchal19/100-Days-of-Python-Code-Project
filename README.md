@@ -6,7 +6,7 @@ This repo shows not just what I’ve learned, but what I’ve **built**. 💻✨
 
 ## 📌 Projects
 
-### ✅ Beginner → Intermediate
+### Beginner → Intermediate
 - **Day 16 - Coffee Machine (OOP)**  
   Built a console-based coffee machine simulator using OOP concepts.  
 
@@ -16,7 +16,7 @@ This repo shows not just what I’ve learned, but what I’ve **built**. 💻✨
 - **Day 34 - Quiz App (Tkinter + API)**  
   GUI quiz game that fetches trivia questions from an API.  
 
-### ✅ Intermediate+  
+### Intermediate+  
 - **Day 36 - Stock News Alert**  
   Sends SMS/email alerts when stock price changes significantly, using APIs & Twilio.  
 
@@ -31,7 +31,7 @@ This repo shows not just what I’ve learned, but what I’ve **built**. 💻✨
 
 ---
 
-## 🌱 Why this repo?  
+## Why this repo?  
 - To track my consistency 📅  
 - To showcase my **real projects**, not just certificates 🎓  
 - To build a portfolio that reflects my coding journey 🏗️  
